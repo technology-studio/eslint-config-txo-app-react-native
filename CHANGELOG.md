@@ -1,3 +1,10 @@
+## 1.0.0 (2024-12-04)
+
+
+### Features
+
+* initial implementation ([#1](https://github.com/technology-studio/eslint-config-txo-app-react-native/issues/1)) ([0c61eeb](https://github.com/technology-studio/eslint-config-txo-app-react-native/commit/0c61eebd9eabde4b3b1576ebc592b16734239758))
+
 ## 1.0.0 (2022-09-23)
 
 
