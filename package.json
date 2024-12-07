@@ -39,8 +39,8 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "eslint-config-txo-typescript": "^7.1.0",
-    "eslint-config-txo-typescript-react": "^3.0.5"
+    "eslint-config-txo-typescript": "^7.2.0",
+    "eslint-config-txo-typescript-react": "^3.0.6"
   },
   "devDependencies": {
     "@txo-peer-dep/log": "^4.0.4",
