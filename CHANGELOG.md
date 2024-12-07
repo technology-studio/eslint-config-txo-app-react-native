@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/technology-studio/eslint-config-txo-app-react-native/compare/v1.0.0...v1.0.1) (2024-12-07)
+
+
+### Bug fixes
+
+* **deps:** update eslint txo packages ([#9](https://github.com/technology-studio/eslint-config-txo-app-react-native/issues/9)) ([91e237b](https://github.com/technology-studio/eslint-config-txo-app-react-native/commit/91e237bb265a8fe01535054c13aa2b79bcc55ab2))
+
 ## 1.0.0 (2024-12-04)
 
 
