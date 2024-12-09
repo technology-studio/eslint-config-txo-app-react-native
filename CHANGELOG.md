@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/technology-studio/eslint-config-txo-app-react-native/compare/v1.0.2...v1.0.3) (2024-12-09)
+
+
+### Bug fixes
+
+* **deps:** update dependency eslint-config-txo-typescript to ^7.2.2 ([#11](https://github.com/technology-studio/eslint-config-txo-app-react-native/issues/11)) ([4c8cf05](https://github.com/technology-studio/eslint-config-txo-app-react-native/commit/4c8cf053403cc7586288b1cfb3a00ed6f26792ab))
+
 ## [1.0.2](https://github.com/technology-studio/eslint-config-txo-app-react-native/compare/v1.0.1...v1.0.2) (2024-12-07)
 
 
