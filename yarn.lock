@@ -1525,10 +1525,10 @@
   dependencies:
     "@sinonjs/commons" "^3.0.0"
 
-"@stylistic/eslint-plugin@^2.11.0":
-  version "2.11.0"
-  resolved "https://registry.yarnpkg.com/@stylistic/eslint-plugin/-/eslint-plugin-2.11.0.tgz#50d0289f36f7201055b7fa1729fdc1d8c46e93fa"
-  integrity sha512-PNRHbydNG5EH8NK4c+izdJlxajIR6GxcUhzsYNRsn6Myep4dsZt0qFCz3rCPnkvgO5FYibDcMqgNHUT+zvjYZw==
+"@stylistic/eslint-plugin@^2.12.0":
+  version "2.12.0"
+  resolved "https://registry.yarnpkg.com/@stylistic/eslint-plugin/-/eslint-plugin-2.12.0.tgz#9819678f919d75241845c2e9379888ecde8e8ad2"
+  integrity sha512-IvD2WXbOoSp0zNpyYbjdSyEjZtut78RYfj2WIlbChE7HFuposTK5X1hc5+4AyqYcjLXYdD5oo/sJtqMGFNRb1w==
   dependencies:
     "@typescript-eslint/utils" "^8.13.0"
     eslint-visitor-keys "^4.2.0"
@@ -3374,13 +3374,13 @@ eslint-config-txo-typescript-react@^3.0.6:
     eslint-plugin-react "^7.37.2"
     eslint-plugin-react-hooks "^5.0.0"
 
-eslint-config-txo-typescript@^7.2.1:
-  version "7.2.1"
-  resolved "https://registry.yarnpkg.com/eslint-config-txo-typescript/-/eslint-config-txo-typescript-7.2.1.tgz#4c9ec6604f50865bbbf3c67ee8b7a7bea9775dc7"
-  integrity sha512-Nm/sjarRnqYMsJx2c/1QI9ey1onaQAj2OCzoC/rnjoZSwfDi4C0aOMWbyI5QCMZCaoERV3Xch27t7hEgRARR0A==
+eslint-config-txo-typescript@^7.2.2:
+  version "7.2.2"
+  resolved "https://registry.yarnpkg.com/eslint-config-txo-typescript/-/eslint-config-txo-typescript-7.2.2.tgz#ba8eebd0ee15f0e904537d80f492687af356c949"
+  integrity sha512-ETn16Gre+f50te64vU/y1q0TnFpmAOQGlllj0IQtWCBt0Os6FDq7zWVbspC/irjRHvwk8QIMLm5YzQWesZ/6Xg==
   dependencies:
     "@eslint-community/eslint-plugin-eslint-comments" "^4.4.1"
-    "@stylistic/eslint-plugin" "^2.11.0"
+    "@stylistic/eslint-plugin" "^2.12.0"
     "@typescript-eslint/utils" "^8.17.0"
     eslint "^9.16.0"
     eslint-config-love "^110.0.0"
