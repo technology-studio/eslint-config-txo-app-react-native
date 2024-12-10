@@ -3374,10 +3374,10 @@ eslint-config-txo-typescript-react@^3.0.6:
     eslint-plugin-react "^7.37.2"
     eslint-plugin-react-hooks "^5.0.0"
 
-eslint-config-txo-typescript@^7.2.4:
-  version "7.2.4"
-  resolved "https://registry.yarnpkg.com/eslint-config-txo-typescript/-/eslint-config-txo-typescript-7.2.4.tgz#75eb97f0e92ee641e7cba15b2f1229f80596b5ea"
-  integrity sha512-dZ1LkstaI4kQ0RhWZVRd07dQGegEx/hRRGMCK6ZrEmHmep1KENNXSjf8mCh+KbkalK+id/5cq84IYe9tXROiFw==
+eslint-config-txo-typescript@^7.2.5:
+  version "7.2.5"
+  resolved "https://registry.yarnpkg.com/eslint-config-txo-typescript/-/eslint-config-txo-typescript-7.2.5.tgz#a57009bd754e427cd491d3708f262c6d28bdbd1d"
+  integrity sha512-IEmhU2i8Y8EGTTHSsLEztdDKqrQI/NyBkS3N7c5iOj8qVc+6EQ6HR8mQMmDjjW+d6K8MA4PcFXlhrxeh5E4Sjg==
   dependencies:
     "@eslint-community/eslint-plugin-eslint-comments" "^4.4.1"
     "@stylistic/eslint-plugin" "^2.12.0"
@@ -3387,7 +3387,7 @@ eslint-config-txo-typescript@^7.2.4:
     eslint-import-resolver-typescript "^3.7.0"
     eslint-plugin-import "^2.31.0"
     eslint-plugin-jest "^28.9.0"
-    eslint-plugin-n "^17.14.0"
+    eslint-plugin-n "^17.15.0"
     eslint-plugin-promise "^7.2.1"
     globals "^15.13.0"
     typescript-eslint "^8.18.0"
@@ -3493,10 +3493,10 @@ eslint-plugin-jsx-a11y@^6.10.2:
     safe-regex-test "^1.0.3"
     string.prototype.includes "^2.0.1"
 
-eslint-plugin-n@^17.0.0, eslint-plugin-n@^17.14.0:
-  version "17.14.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-n/-/eslint-plugin-n-17.14.0.tgz#162a7c17a7ce7e3834af537bca68ab8b6aa26edc"
-  integrity sha512-maxPLMEA0rPmRpoOlxEclKng4UpDe+N5BJS4t24I3UKnN109Qcivnfs37KMy84G0af3bxjog5lKctP5ObsvcTA==
+eslint-plugin-n@^17.0.0, eslint-plugin-n@^17.15.0:
+  version "17.15.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-n/-/eslint-plugin-n-17.15.0.tgz#c6ab639a7d7761085cff05313753413d898b087e"
+  integrity sha512-xF3zJkOfLlFOm5TvmqmsnA9/fO+/z2pYs0dkuKXKN/ymS6UB1yEcaoIkqxLKQ9Dw/WmLX/Tdh6/5ZS5azVixFQ==
   dependencies:
     "@eslint-community/eslint-utils" "^4.4.1"
     enhanced-resolve "^5.17.1"
