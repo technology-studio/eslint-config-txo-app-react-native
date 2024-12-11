@@ -3374,10 +3374,10 @@ eslint-config-txo-typescript-react@^3.0.6:
     eslint-plugin-react "^7.37.2"
     eslint-plugin-react-hooks "^5.0.0"
 
-eslint-config-txo-typescript@^7.2.6:
-  version "7.2.6"
-  resolved "https://registry.yarnpkg.com/eslint-config-txo-typescript/-/eslint-config-txo-typescript-7.2.6.tgz#be4d8c6715f22f2099defc3d8ca0e6883b67538a"
-  integrity sha512-HlokcGJbJ2dzKEZmxotgnao+72HGi8Ph84wTysPSBLad1spMs42lx/JaX1POGJsUFImRZIncRFGnG6WDpYFtVg==
+eslint-config-txo-typescript@^7.2.7:
+  version "7.2.7"
+  resolved "https://registry.yarnpkg.com/eslint-config-txo-typescript/-/eslint-config-txo-typescript-7.2.7.tgz#1923f3bee6d1f6697eb865595c92103343fab7a9"
+  integrity sha512-1npqOJM9d5lqBRvQxQx5+eGr/i2T2V+VoOZbdZVEfRZPVO8kz/8OKHkeXuJQMca/96Eyl6+clx5kRBMukCb0bw==
   dependencies:
     "@eslint-community/eslint-plugin-eslint-comments" "^4.4.1"
     "@stylistic/eslint-plugin" "^2.12.1"
