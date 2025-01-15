@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-txo-app-react-native",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "description": "Technology Studio - Eslint config txo app react native",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
