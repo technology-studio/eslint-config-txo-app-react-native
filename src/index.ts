@@ -86,9 +86,32 @@ const e2eConfigList = typescriptEslintConfig(
   },
 )
 
+const jestConfigList = typescriptEslintConfig(
+  {
+    name: 'jest',
+    files: ['__tests__/**/*.ts', '__tests__/**/*.tsx'],
+    languageOptions: {
+      parserOptions: {
+        project: '__tests__/tsconfig.json',
+      },
+    },
+    settings: {
+      'import/resolver': {
+        typescript: {
+          project: '__tests__/tsconfig.json',
+        },
+      },
+    },
+    extends: [
+      jestConfig,
+    ],
+  },
+)
+
 export const configList: TSESLint.FlatConfig.Config[] = [
   ...defaultConfigList,
   ...e2eConfigList,
+  ...jestConfigList,
   {
     ignores: [
       '.releaserc.js',
@@ -98,6 +121,7 @@ export const configList: TSESLint.FlatConfig.Config[] = [
       'commitlint.config.js',
       'coverage',
       'eslint.config.js',
+      'eslint-ci.config.js',
       'ios',
       'jest.config.js',
       'lib',
