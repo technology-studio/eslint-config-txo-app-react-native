@@ -4,7 +4,10 @@
  * @Copyright: Technology Studio
 **/
 
+import { pathsToModuleNameMapper } from 'ts-jest'
 import { defaults } from 'jest-config'
+
+import tsconfig from './__tests__/tsconfig.json' with { type: 'json' }
 
 export default {
   preset: 'ts-jest',
@@ -28,4 +31,5 @@ export default {
       tsconfig: '<rootDir>/__tests__/tsconfig.json'
     }]
   },
+  moduleNameMapper: pathsToModuleNameMapper(tsconfig.compilerOptions.paths, { prefix: '<rootDir>/' }),
 }
