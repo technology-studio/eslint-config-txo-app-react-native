@@ -6018,7 +6018,7 @@ nerf-dart@^1.0.0:
   resolved "https://registry.yarnpkg.com/nerf-dart/-/nerf-dart-1.0.0.tgz#e6dab7febf5ad816ea81cf5c629c5a0ebde72c1a"
   integrity sha512-EZSPZB70jiVsivaBLYDCyntd5eH8NTSMOn3rB+HxwdmKThGELLdYv8qVIMWvZEFy9w8ZZpW9h9OB32l1rGtj7g==
 
-next@^15.5.13:
+next@^15.5.14:
   version "15.5.15"
   resolved "https://registry.yarnpkg.com/next/-/next-15.5.15.tgz#b25a59a232bd992a83da045fa289ee803c23c836"
   integrity sha512-VSqCrJwtLVGwAVE0Sb/yikrQfkwkZW9p+lL/J4+xe+G3ZA+QnWPqgcfH1tDUEuk9y+pthzzVFp4L/U8JerMfMQ==
